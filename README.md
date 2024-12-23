@@ -10,8 +10,8 @@ ProSkillHub is your ultimate platform for mastering skills and accelerating pers
 - Progress Tracking: Stay on top of your goals with built-in progress tracking features.
 
 ## Technologies Used 🛠️
- 1.*HTML*
- 2.*CSS*
- 3.*JavaScript*
+ 1.**HTML**
+ 2.**CSS**
+ 3.**JavaScript**
 
  
